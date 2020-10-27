@@ -12,6 +12,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+
+![Capture d’écran de 2020-10-27 14-32-48](https://user-images.githubusercontent.com/53655352/97309008-d044db80-1861-11eb-8cbc-7b8ac5615ded.png)
+![Capture d’écran de 2020-10-27 14-33-08](https://user-images.githubusercontent.com/53655352/97309020-d33fcc00-1861-11eb-9c91-5178cf7f4de6.png)
+![Capture d’écran de 2020-10-27 14-33-24](https://user-images.githubusercontent.com/53655352/97309026-d5a22600-1861-11eb-95eb-55181e152e51.png)
+![Capture d’écran de 2020-10-27 14-33-31](https://user-images.githubusercontent.com/53655352/97309047-d8048000-1861-11eb-8bbe-fd6309a34234.png)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
