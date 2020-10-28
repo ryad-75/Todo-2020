@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 ![Capture d’écran de 2020-10-27 14-33-08](https://user-images.githubusercontent.com/53655352/97309020-d33fcc00-1861-11eb-9c91-5178cf7f4de6.png)
 ![Capture d’écran de 2020-10-27 14-33-24](https://user-images.githubusercontent.com/53655352/97309026-d5a22600-1861-11eb-95eb-55181e152e51.png)
 ![Capture d’écran de 2020-10-27 14-33-31](https://user-images.githubusercontent.com/53655352/97309047-d8048000-1861-11eb-8bbe-fd6309a34234.png)
-
+![Capture d’écran de 2020-10-28 11-49-24](https://user-images.githubusercontent.com/53655352/97426490-d4c9cc80-1913-11eb-91ec-0e49e7f38432.png)
 
 ### `npm test`
 
