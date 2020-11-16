@@ -134,3 +134,26 @@ h1{
 .edit-icon {
   color: #fff;
 }
+
+
+@media screen and (max-width: 600px) {
+  .todo-app {
+    width: 345px;
+    min-height: 500px;
+    margin: 50px auto;
+  }
+  .todo-input {
+    padding: 14px 32px 14px 5px;
+    border-radius: 4px 0 0 4px;
+    border: 2px solid #580bf1;
+    outline: none;
+    width: 250px;
+  }
+  .todo-row {
+    text-align: left;
+    margin: 5px auto;
+    padding: 10px;
+    border-radius: 5px;
+    width: 96%;
+}
+}
